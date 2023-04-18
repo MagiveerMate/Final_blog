@@ -121,15 +121,4 @@
     height: 200px;  
     }  
 
-    #like-btn {
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      font-size: 16px;
-      cursor: pointer;
-      border-radius: 5px;
-    }
-    
-    #like-btn:hover {
-      background-color: #3e8e41;
-    }
+
